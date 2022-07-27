@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on building projects.
 - 🌱 I’m currently learning HTML5, CSS3, JS.
 - 🤔 I’m looking for internships, apprenticeships, and volunteer work.
-- 📫 How to reach me: [Email](justartover@gmail.com)
+- 📫 How to reach me: Email- justartover@gmail.com
 - :handshake: I’m looking forward to making contributions.
 - 😄 Pronouns: :woman:She/Her
 - I love watching Kdramas, Anime and reading Webtoon, in my free time.
