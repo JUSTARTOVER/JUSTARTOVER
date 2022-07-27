@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 # Hello World :computer:
 - 👋 I’m @justartover
