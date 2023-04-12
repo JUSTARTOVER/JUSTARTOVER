@@ -1,16 +1,20 @@
 
 # Hello World :computer:
 - 👋 I’m @justartover
+- 🌱 I’m currently learning HTML5, CSS3, JS.
+- 🐌 I'm a beginner.
+- 😄 Pronouns: :woman:She/Her
+- 💖 I love watching Kdramas, Anime and reading Webtoon, in my free time.
+- :handshake: I’m looking forward to making contributions.
+
+<!--
 - 🌱 I’m a Frontend Developer Trainee.
 - 🔭 I’m currently working on building projects.
-- 🌱 I’m currently learning HTML5, CSS3, JS.
+-->
+
 <!--
 - 🤔 I’m looking for internships, apprenticeships, and volunteer work.
-- 📫 How to reach me: Email- justartover@gmail.com -->
-- :handshake: I’m looking forward to making contributions.
-- 😄 Pronouns: :woman:She/Her
-<!--
-- I love watching Kdramas, Anime and reading Webtoon, in my free time.
+- 📫 How to reach me: Email- justartover@gmail.com 
 -->
 
 
@@ -19,9 +23,7 @@
 **justartover/justartover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 👀 I’m currently learning HTML5, CSS3, JS.
-- 👯 I’m looking to collaborate on ...
-- 🐌 I'm a beginner.
+- 👀 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me? [Twitter](https://twitter.com/justartover) | [Instagram](https://www.instagram.com/justartover/)
 - ⚡ Fun fact: ...
