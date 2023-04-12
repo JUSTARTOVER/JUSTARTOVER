@@ -6,6 +6,8 @@
 - 😄 Pronouns: :woman:She/Her
 - 💖 I love watching Kdramas, Anime and reading Webtoon, in my free time.
 - :handshake: I’m looking forward to making contributions.
+![JUSTARTOVER's GitHub stats](https://github-readme-stats.vercel.app/api?username=justartover&show_icons=true&theme)
+
 
 <!--
 - 🌱 I’m a Frontend Developer Trainee.
